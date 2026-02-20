@@ -4,7 +4,7 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Security: Enterprise](https://img.shields.io/badge/Security-Enterprise-green.svg)](https://shark-claw.security)
 <div align="center">
-<img assets="branding/banner.png" alt="SharkClaw" width="100%">
+<img src="assets/banner.png" alt="SharkClaw" width="100%">
 </div>
 **Advanced AI Agent Security Platform for Enterprise Protection**
  
